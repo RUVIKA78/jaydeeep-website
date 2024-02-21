@@ -8,3 +8,4 @@ print_r($_POST);
 // $message=["message"];
 
 // var_dump($fname, $lname, $email, $message);
+echo ("heloo");
